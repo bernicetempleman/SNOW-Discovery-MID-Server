@@ -29,3 +29,4 @@ Download MID Server ZIP file from ServiceNow instance on the Virtual Machine as 
 - Part of ITOM standard package
 
 8. Run a quick discovery
+![image](https://user-images.githubusercontent.com/12488769/147888250-a368b590-ae1f-42a3-984d-04f88aeb5227.png)
